@@ -1,2 +1,2 @@
-# notpad
+# notepad
 take notes
